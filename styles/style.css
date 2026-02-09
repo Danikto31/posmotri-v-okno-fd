@@ -129,7 +129,7 @@ html {
   line-clamp: 4;
   overflow: hidden;
   text-overflow: ellipsis;
-  font-family: inherit, sans-serif;
+  font-family: inherit;
   font-weight: 400;
 }
 
@@ -148,7 +148,7 @@ html {
 }
 
 .search-form__fieldset-title {
-  font-family: inherit, sans-serif;
+  font-family: inherit;
   font-weight: 400;
   margin-bottom: 5px;
   font-size: 18px;
@@ -168,7 +168,7 @@ html {
   min-width: 225px;
   color: #fff;
   appearance: none;
-  font-family: inherit, sans-serif;
+  font-family: inherit;
   font-weight: 400;
   font-size: 18px;
   outline: none;
@@ -236,7 +236,7 @@ html {
   cursor: pointer;
   background-color: transparent;
   border: 1px solid white;
-  font-family: inherit, sans-serif;
+  font-family: inherit;
   font-size: 18px;
   font-weight: 700;
   color: white;
